@@ -1,4 +1,4 @@
-Problems listed on his [personal page](http://www.hutter1.net/)
+Problems as listed on his [personal page](http://www.hutter1.net/)
 
 ### Problem 2.3 (Martin-Löf random sequences and convergence):
 100 Euro are offered for the construction of a universal semimeasure with posterior convergence individually for all Martin-Löf random sequences. Universal may be defined in either of the following ways:
@@ -19,6 +19,9 @@ Problems listed on his [personal page](http://www.hutter1.net/)
 
 ### Problem 6.3 (Posterization of prediction errors)
 100 Euro
+
+
+
 
 
 
