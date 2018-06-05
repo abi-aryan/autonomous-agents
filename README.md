@@ -10,6 +10,7 @@ How to make sense out of this field?
 2. Alan Newell
 3. [Markus Hutter](http://www.hutter1.net/private/index.htm)
 4. [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
+5. Michael Wooldridge
 
 Connectionist Graph of People:[Add Link]
 
