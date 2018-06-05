@@ -6,11 +6,18 @@ How to make sense out of this field?
 
 ## People: 
 (includes a list of all people who have contributed to the field)
-1. [Herbert Simon](http://diva.library.cmu.edu/Simon/)
-2. Alan Newell
-3. [Markus Hutter](http://www.hutter1.net/private/index.htm)
-4. [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
-5. Michael Wooldridge
+1. [Herbert Simon, CMU](http://diva.library.cmu.edu/Simon/)
+2. Alan Newell, CMU
+3. [Markus Hutter, Australian National University(ASU)](http://www.hutter1.net/private/index.htm)
+4. [Shane Legg, Deep Mind](https://en.wikipedia.org/wiki/Shane_Legg)
+5. Michael Wooldridge, Oxford
+6. Judea Pearl, UCLA
+7. Elias Bareinboim, Purdue
+> Has worked on the transportability problem in AI using Causality
+8. [He He, NYU](https://hhexiy.github.io/)
+> More recently, I have been interested in agents that collaborate [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/abs/1704.07130) or compete [Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559) with people. 
+9. [Andrew Forney](https://cse.lmu.edu/department/computerscience/facultyandstaff/?expert=andrew.forney)
+
 
 Connectionist Graph of People:[Add Link]
 
@@ -33,7 +40,7 @@ Connectionist Graph of People:[Add Link]
 
 ## Papers: 
 1. [Universal Intelligence by Shane Legg, Marcus Hutter](https://arxiv.org/pdf/0712.3329.pdf)
-2. 
+2. [Counterfactual Data-Fusion for Online Reinforcement Learners by Andrew Forney](http://proceedings.mlr.press/v70/forney17a/forney17a.pdf)
 
 ## Open Problems:
 A list of open problems proposed by some of the luminaries of the field
