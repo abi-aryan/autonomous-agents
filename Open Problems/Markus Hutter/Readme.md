@@ -20,10 +20,7 @@ Problems as listed on his [personal page](http://www.hutter1.net/)
 ### Problem 6.3 (Posterization of prediction errors)
 100 Euro
 
-
-
-
-
+---
 
 #### The Meanings of AIXI
 
