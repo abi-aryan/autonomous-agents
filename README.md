@@ -6,7 +6,7 @@ How to make sense out of this field?
 
 ## People: 
 (includes a list of all people who have contributed to the field)
-1. Herbert Simon
+1. [Herbert Simon](http://diva.library.cmu.edu/Simon/)
 2. Alan Newell
 3. [Markus Hutter](http://www.hutter1.net/private/index.htm)
 4. [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
