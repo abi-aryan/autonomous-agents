@@ -13,5 +13,7 @@ Connectionist Graph of People:[Add Link]
 
 ## Reading Material: 
 
-## Open Problems: 
+## Open Problems:
+A list of open problems proposed by some of the luminaries of the field
+
 1. Marcus Hutter
