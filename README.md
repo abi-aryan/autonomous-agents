@@ -1,4 +1,4 @@
-# autonomous-agents
+# Autonomous Agents
 Repository of all milestones in the field of Autonomous Agents
 
 ## Brief History:
