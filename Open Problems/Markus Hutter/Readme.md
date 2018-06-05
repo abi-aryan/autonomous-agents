@@ -20,7 +20,9 @@ Problems listed on his [personal page](http://www.hutter1.net/)
 ### Problem 6.3 (Posterization of prediction errors)
 100 Euro
 
-> **The Meanings of AIXI**
+
+
+#### The Meanings of AIXI
 
 > * AIXI stands for Artificial Intelligence (AI) based on Solomonoff's distribution ξ (Greek letter Xi)
 > * AIXI stands for Artificial Intelligence (AI) crossed (X) with Induction (I)
