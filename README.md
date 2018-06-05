@@ -36,6 +36,7 @@ Connectionist Graph of People:[Add Link]
 7. [Structures of Agency: Essays by Michael Bratman](https://www.amazon.com/Structures-Agency-Essays-Michael-Bratman/dp/0195187717)
 8. [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_2?ie=UTF8&s=books&qid=1263391804&sr=8-2#reader_0387310738)
 9. *Dissertation Thesis* - [Machine Super Intelligence by Shane Legg](http://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
+10. [The book of Why by Judea Pearl](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&qid=1528229005&sr=8-1&keywords=book+of+why) 
 
 
 ## Papers: 
