@@ -12,3 +12,6 @@ Connectionist Graph of People:[Add Link]
 ## Milestones:
 
 ## Reading Material: 
+
+## Open Problems: 
+1. Marcus Hutter
