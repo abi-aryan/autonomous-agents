@@ -1,5 +1,5 @@
 # Autonomous Agents
-Repository of all milestones in the field of Autonomous Agents
+How to make sense out of this field?
 
 ## Brief History:
 
