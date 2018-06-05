@@ -23,4 +23,4 @@ Connectionist Graph of People:[Add Link]
 ## Open Problems:
 A list of open problems proposed by some of the luminaries of the field
 
-1. Marcus Hutter
+1. [Marcus Hutter](https://github.com/abi-aryan/autonomous-agents/tree/master/Open%20Problems/Markus%20Hutter#problem-23-martin-l%C3%B6f-random-sequences-and-convergence)
