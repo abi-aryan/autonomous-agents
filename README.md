@@ -31,6 +31,12 @@ How to make sense out of this field?
 > Works on game-theoretic approach to AI. I think his book on game theory was also recommended by Hutter. Anyway friends with Wooldridge as well. 
 15. Keith Decker
 > Is an expert on brokers and middle agents. 
+16. Michael Fisher
+> Wooldridge's friend. He has done work on concurrent Metate language. I don't know what that is.
+17. Valentina Tamma
+> Wooldridge's friend. He/She has done work on ontologies and DAML. I don't know what that is.
+
+
 
 
 Connectionist Graph of People:[Add Link]
@@ -54,10 +60,6 @@ Connectionist Graph of People:[Add Link]
 11. Tools for Thought, Howard Rheingold
 12. Cybernetics, Norman Weiner
 > My favorite book. There are some chapters absolutely worth going on to understand parallel and distributed systems and how they came to be. One of the pioneers in the field of cybernetics and has work on dynamic systems. The introduction is on multi-level systems. Read chapter 1 on why they were required in the first place. He is among the ones who inspired Herbert Simon. He's the best thing to have happened to maths. I have also created some graph based on his work on things like markov systems etc. 
-13. Michael Fisher
-> Wooldridge's friend. He has done work on concurrent Metate language. I don't know what that is.
-14. Valentina Tamma
-> Wooldridge's friend. He/She has done work on ontologies and DAML. I don't know what that is.
 
 
 
