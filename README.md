@@ -12,7 +12,7 @@ How to make sense out of this field?
 4. [Shane Legg, Deep Mind](https://en.wikipedia.org/wiki/Shane_Legg)
 5. Michael Wooldridge, Oxford
 6. Judea Pearl, UCLA
-> Integrity is the first word I use to define him and his research. Initially worked in Bayesian but run across a simple problem that made him question the existing approach. Bayesian methods while had their own advantages over others methods in machine learning but weren't smart enough to pass a Turing Test (pg 359). For example, why doesn't the fall in temperature on a thermometer say cause cold? But if it's cold then the temperature will rise. So he along with a couple more people from different fields (pg. 350) created work in a new field called Causality. Not a new field though but a dead one actually. 
+> Integrity is the first word I use to define him and his research. Initially worked in Bayesian but run across a simple problem that made him question the existing approach. Bayesian methods while had their own advantages over others methods in machine learning but weren't smart enough to pass a Turing Test (pg 359). For example, why doesn't the fall in temperature on a thermometer cause cold? But if it's cold then the temperature will fall. So he along with a couple more people from different fields (pg. 350) created work in a new field called Causality. Not a new field though but a dead one actually. 
 7. Elias Bareinboim, Purdue
 > Has worked on the transportability problem in AI using Causality. He was a PhD student under Judea. Worked on another also very important problem called Selection Bias. Has papers on confounding variables.  
 8. [He He, NYU](https://hhexiy.github.io/)
