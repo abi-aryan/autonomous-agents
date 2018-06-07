@@ -60,6 +60,9 @@ Connectionist Graph of People:[Add Link]
 11. Tools for Thought, Howard Rheingold
 12. Cybernetics, Norman Weiner
 > My favorite book. There are some chapters absolutely worth going on to understand parallel and distributed systems and how they came to be. One of the pioneers in the field of cybernetics and has work on dynamic systems. The introduction is on multi-level systems. Read chapter 1 on why they were required in the first place. He is among the ones who inspired Herbert Simon. He's the best thing to have happened to maths. I have also created some graph based on his work on things like markov systems etc. 
+13. Intelligence: Strucuture, Growth and Action by Raymond B. Cattell 
+> I think this is the book of history of the progress in a few particular years. 
+14. How to create a mind: Ray Kurzweil 
 
 
 
