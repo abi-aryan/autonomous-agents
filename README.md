@@ -12,11 +12,21 @@ How to make sense out of this field?
 4. [Shane Legg, Deep Mind](https://en.wikipedia.org/wiki/Shane_Legg)
 5. Michael Wooldridge, Oxford
 6. Judea Pearl, UCLA
+> Integrity is the first word I use to define him and his research. Initially worked in Bayesian but run across a simple problem that made him question the existing approach. Bayesian methods while had their own advantages over others methods in machine learning but weren't smart enough to pass a Turing Test (pg 359). For example, why doesn't the fall in temperature on a thermometer say cause cold? But if it's cold then the temperature will rise. So he along with a couple more people from different fields (pg. 350) created work in a new field called Causality. Not a new field though but a dead one actually. 
 7. Elias Bareinboim, Purdue
-> Has worked on the transportability problem in AI using Causality
+> Has worked on the transportability problem in AI using Causality. He was a PhD student under Judea. Worked on another also very important problem called Selection Bias. Has papers on confounding variables.  
 8. [He He, NYU](https://hhexiy.github.io/)
-> More recently, I have been interested in agents that collaborate [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/abs/1704.07130) or compete [Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559) with people. 
+> More recently, I have been interested in agents that collaborate [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/abs/1704.07130) or compete [Opponent Modeling in Deep Reinforcement Learning](https://arxiv.org/abs/1609.05559) with people. Probably, Yann knows her. He was among the first to announce her new job. Also, Yann is at NYU so of course he does. 
 9. [Andrew Forney](https://cse.lmu.edu/department/computerscience/facultyandstaff/?expert=andrew.forney)
+> Was a PhD student at UCLA. George and Judea know him. 
+10. Les Gasser 
+> He understands and has done a lot of work on the early days of distributed AI. Ask him the history. Woolridge and Victor know him. 
+11. Juergen Schihmdthuber 
+> [Godel Machines](https://www.wikiwand.com/en/G%C3%B6del_machine). These aren't machines by Godel but rather only called Godel Machines. Created in 2003 by him. Most people in the DL world know him. 
+12. [Victor Lesser](http://mas.cs.umass.edu/lesser.html)
+> Friends with Gasser. Friends with Wooldrige, Michael. Again one of the most important system design guy in AI. Read his paper marked #3
+13. John Searle, Berkley
+> Philosopher. Has some work on free will. Might know Bratman.
 
 
 Connectionist Graph of People:[Add Link]
@@ -37,11 +47,15 @@ Connectionist Graph of People:[Add Link]
 8. [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_2?ie=UTF8&s=books&qid=1263391804&sr=8-2#reader_0387310738)
 9. *Dissertation Thesis* - [Machine Super Intelligence by Shane Legg](http://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
 10. [The book of Why by Judea Pearl](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&qid=1528229005&sr=8-1&keywords=book+of+why) 
+11. Tools for Thought, Howard Rheingold
+12. Cybernetics, Norman Weiner
 
 
 ## Papers: 
 1. [Universal Intelligence by Shane Legg, Marcus Hutter](https://arxiv.org/pdf/0712.3329.pdf)
 2. [Counterfactual Data-Fusion for Online Reinforcement Learners by Andrew Forney](http://proceedings.mlr.press/v70/forney17a/forney17a.pdf)
+3. [Reflections on being an AI System Architect by Lesser](http://mas.cs.umass.edu/Documents/lesser/system_architect_webdoc.pdf)
+
 
 ## Open Problems:
 A list of open problems proposed by some of the luminaries of the field
