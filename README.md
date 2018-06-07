@@ -27,6 +27,10 @@ How to make sense out of this field?
 > Friends with Gasser. Friends with Wooldrige, Michael. Again one of the most important system design guy in AI. Read his paper marked #3
 13. John Searle, Berkley
 > Philosopher. Has some work on free will. Might know Bratman.
+14. Jeff Rosenchein
+> Works on game-theoretic approach to AI. I think his book on game theory was also recommended by Hutter. Anyway friends with Wooldridge as well. 
+15. Keith Decker
+> Is an expert on brokers and middle agents. 
 
 
 Connectionist Graph of People:[Add Link]
@@ -49,6 +53,12 @@ Connectionist Graph of People:[Add Link]
 10. [The book of Why by Judea Pearl](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&qid=1528229005&sr=8-1&keywords=book+of+why) 
 11. Tools for Thought, Howard Rheingold
 12. Cybernetics, Norman Weiner
+> My favorite book. There are some chapters absolutely worth going on to understand parallel and distributed systems and how they came to be. One of the pioneers in the field of cybernetics and has work on dynamic systems. The introduction is on multi-level systems. Read chapter 1 on why they were required in the first place. He is among the ones who inspired Herbert Simon. He's the best thing to have happened to maths. I have also created some graph based on his work on things like markov systems etc. 
+13. Michael Fisher
+> Wooldridge's friend. He has done work on concurrent Metate language. I don't know what that is.
+14. Valentina Tamma
+> Wooldridge's friend. He/She has done work on ontologies and DAML. I don't know what that is.
+
 
 
 ## Papers: 
@@ -71,3 +81,7 @@ A list of open problems proposed by some of the luminaries of the field
 ## Youtube Videos:
 1. Google DeepMinds' Co-Founder Shane Legg on [The Role of Multi-Agent Learning in Artificial Intelligence Research at DeepMind ](https://www.youtube.com/watch?v=CvL-KV3IBcM)
 2. 
+
+## Conferences:
+1. International Conference on Autonomous Agents
+Drafts: There's two things. One is an American conference which started out as a small roll out. I think it was in multiagent systems. Also that one, has an European equivalent as well. 
